@@ -1,0 +1,1 @@
+/mnt/c/VSCode/bin/code ~/nex-tmux
